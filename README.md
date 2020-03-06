@@ -1,2 +1,2 @@
 # suneditor-vue
-A Vue Component for SunEditor (WYSIWYG editor) http://suneditor.com/
+> A Vue Component for [SunEditor](https://github.com/JiHong88/SunEditor)
